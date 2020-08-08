@@ -1,0 +1,13 @@
+Example app listening on port 80!
+req:  undefined {
+  host: '192.168.100.140',
+  accept: '*/*',
+  'content-type': 'application/json',
+  mac: '00:21:AC:04:07:4D',
+  'content-length': '1296'
+}
+data start
+data end
+{"CountLogs":[{"Counts":[{"LogPeriodValue":0,"Name":"Line 1","RegisterId":0,"RegisterType":"Custom","Tags":[],"UUID":"87cd5df5-ec65-4c15-b779-0198fe653766","Value":15},{"LogPeriodValue":0,"Name":"Line 2","RegisterId":1,"RegisterType":"Custom","Tags":[],"UUID":"476929fc-28a6-4209-b894-eb45727aeec7","Value":18}],"LogEntryId":574,"StartTimestamp":"2020-07-27T12:30:00Z","StartTimestampLocaltime":"2020-07-27T15:30:00+03:00","Timestamp":"2020-07-27T12:45:00Z","TimestampLocaltime":"2020-07-27T15:45:00+03:00"},{"Counts":[{"LogPeriodValue":1,"Name":"Line 1","RegisterId":0,"RegisterType":"Custom","Tags":[],"UUID":"87cd5df5-ec65-4c15-b779-0198fe653766","Value":16},{"LogPeriodValue":1,"Name":"Line 2","RegisterId":1,"RegisterType":"Custom","Tags":[],"UUID":"476929fc-28a6-4209-b894-eb45727aeec7","Value":19}],"LogEntryId":575,"StartTimestamp":"2020-07-27T12:45:00Z","StartTimestampLocaltime":"2020-07-27T15:45:00+03:00","Timestamp":"2020-07-27T13:00:00Z","TimestampLocaltime":"2020-07-27T16:00:00+03:00"}],"DeviceID":"D001","DeviceName":"DefaultName","EnableDST":false,"FriendlyDeviceSerial":"V4D-20050095","IPv4Address":"192.168.100.128","IPv6Address":"fe80::221:acff:fe04:74d","SiteID":"S001","SiteName":"DefaultSiteName","TimeZone":"Asia/Riyadh","UserString":"-","macAddress":"00:21:AC:04:07:4D"}
+Seriel No:V4D-20050095
+
